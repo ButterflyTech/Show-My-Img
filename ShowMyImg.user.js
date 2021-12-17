@@ -9,6 +9,7 @@
 // @match        *bbs.inovance.com/*
 // @icon         https://www.google.com/s2/favicons?domain=tampermonkey.net
 // @updateURL    https://raw.githubusercontent.com/ButterflyTech/Show-My-Img/main/ShowMyImg.user.js
+// @license MIT
 // @grant        none
 // ==/UserScript==
 
